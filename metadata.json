@@ -1,0 +1,6 @@
+{
+  "name": "Nebula Craft — Bedrock Server Deployment Panel",
+  "description": "High-tier obsidian-grade Minecraft Bedrock Dedicated Server orchestration console and deployment deck.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
